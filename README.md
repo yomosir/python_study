@@ -9,3 +9,6 @@
 - 第二部分是字符串的相关知识点：[字符串知识点](http://github.com/yomosir/python_study/blob/master/str.py)
 - list类型相关知识点：[字符串知识点](http://github.com/yomosir/python_study/blob/master/listTest.py)
 - 字典类型知识点： [字典类型相关的知识点](http://github.com/yomosir/python_study/blob/master/dictionary_test.py "字典类型")
+## 语句与文件 ##
+本章主要介绍的是python中的一些基本语法，以及条件判断，循环等，还有就是有关文件方面的知识。
+- 语句操作基础只是：[语句操作知识点](http://github.com/yomosir/python_study/blob/master/operator_test.py)
